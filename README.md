@@ -2,18 +2,30 @@
 
 # Projeto de filmes:
 
-Um simples E-Ecommerce feito com o frameWork [https://reactjs.org/](React) e [https://www.typescriptlang.org/pt/docs/handbook/react.html](TypeScript), inclui algumas dependencias:
+Um simples E-Ecommerce feito com o frameWork React e TypeScript, inclui algumas dependencias:
 
-[https://v5.reactrouter.com/web/api/Hooks](react-router-dom@5)
-[https://axios-http.com/docs/intro](axios)
-[https://styled-components.com/](styled-components)
-[https://www.framer.com/motion/](frame-emotion)
+react-router-dom@5
+[https://v5.reactrouter.com/web/api/Hooks]
 
-# Biblioteca
+axios
+[https://axios-http.com/docs/intro]
 
-[https://reactjs.org/docs/context.html](Context)
-[https://reactjs.org/docs/hooks-reference.html#usestate](useState)
-[https://reactjs.org/docs/hooks-reference.html#useeffect](useEffect)
+styled-components
+[https://styled-components.com/]
+
+frame-emotion
+[https://www.framer.com/motion/]
+
+# Bibliotecas
+
+Context
+[https://reactjs.org/docs/context.html]
+
+useState
+[https://reactjs.org/docs/hooks-reference.html#usestate]
+
+useEffect
+[https://reactjs.org/docs/hooks-reference.html#useeffect]
 
 # Iniciando o projeto:
 
@@ -25,7 +37,8 @@ Para que todas as dependencias sejam instaladas junto a pasta node_modules.
 
 Antes de dar inicio a aplicação, faça o clone do json-server no github:
 
-[https://github.com/typicode/json-server](json-server)
+json-server
+[https://github.com/typicode/json-server]
 
 inicie o servidor digitando o comando:
 
@@ -38,8 +51,8 @@ yarn start
 Tudo funcionara corretamente seguinto todos os passos.
 
 
-@Joyce Pereira da Gama
-[https://github.com/JoyceGama](Joyce-Gama-github)
+Joyce Pereira da Gama
+[https://github.com/JoyceGama]
 
 
 
