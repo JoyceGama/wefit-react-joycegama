@@ -1,0 +1,7 @@
+body{
+    display:flex;
+    flex-direction: column;
+
+        background-color: rgba(47, 46, 65, 1);
+
+}
